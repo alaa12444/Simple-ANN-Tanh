@@ -11,9 +11,25 @@ This project implements a simple Artificial Neural Network (ANN) using:
 
 The network performs a forward pass and prints the final output.
 
+## Network Structure
+- 2 Input Neurons
+- 2 Hidden Neurons
+- 2 Output Neurons
+- Activation Function: tanh
+- Random weight initialization
+
 ## Technologies Used
 - Python
 - NumPy
 
+## How to Run
+
+```bash
+python ann_tanh.py
+```
+
 ## Author
 Alaa Elsaid Elhadidy
+
+## License
+This project is licensed under the MIT License.
